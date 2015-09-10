@@ -10,6 +10,6 @@
   },
   "dependencies": {
     "cylon": "^1.1.0",
-    "yeelight-blue": "git://github.com/ChrisTheBaron/node-yeelight-blue"
+    "yeelight-blue": "^0.1.1"
   }
 }
