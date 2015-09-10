@@ -3,13 +3,19 @@
   "description": "Cylon module for Yeelight",
   "version": "0.0.0",
   "devDependencies": {
-    "chai": "^3.0.0",
-    "mocha": "^2.2.5",
-    "sinon": "^1.15.4",
-    "sinon-chai": "^2.8.0"
+	"chai": "^3.0.0",
+	"mocha": "^2.2.5",
+	"sinon": "^1.15.4",
+	"sinon-chai": "^2.8.0"
   },
   "dependencies": {
-    "cylon": "^1.1.0",
-    "yeelight-blue": "^0.1.1"
-  }
+	"cylon": "^1.1.0",
+	"yeelight-blue": "^0.1.1"
+  },
+  "bugs": {
+	"url": "https://github.com/ChrisTheBaron/cylon-yeelight/issues"
+  },
+  "license": "SEE LICENSE IN LICENSE",
+  "author": "Chris Taylor <christhebaron@gmail.com> (http://christhebaron.co.uk/)",
+  "repository": "https://github.com/ChrisTheBaron/cylon-yeelight.git"
 }
