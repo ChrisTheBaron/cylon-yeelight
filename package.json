@@ -3,19 +3,32 @@
   "description": "Cylon module for Yeelight",
   "version": "1.0.0",
   "devDependencies": {
-    "chai": "^3.0.0",
-    "mocha": "^2.2.5",
-    "sinon": "^1.15.4",
-    "sinon-chai": "^2.8.0"
+	"chai": "^3.0.0",
+	"mocha": "^2.2.5",
+	"sinon": "^1.15.4",
+	"sinon-chai": "^2.8.0"
   },
   "dependencies": {
-    "cylon": "^1.1.0",
-    "yeelight-blue": "^0.1.1"
+	"cylon": "^1.1.0",
+	"yeelight-blue": "^0.1.1"
   },
   "bugs": {
-    "url": "https://github.com/ChrisTheBaron/cylon-yeelight/issues"
+	"url": "https://github.com/ChrisTheBaron/cylon-yeelight/issues"
   },
   "license": "MIT",
   "author": "Chris Taylor <christhebaron@gmail.com> (http://christhebaron.co.uk/)",
-  "repository": "https://github.com/ChrisTheBaron/cylon-yeelight.git"
+  "repository": "https://github.com/ChrisTheBaron/cylon-yeelight.git",
+  "main": "./index.js",
+  "homepage": "http://cylonjs.com",
+  "keywords": [
+	"cylon",
+	"cylonjs",
+	"power",
+	"switch",
+	"home",
+	"automation",
+	"lights",
+	"yeelight"
+  ],
+  "scripts": {}
 }
