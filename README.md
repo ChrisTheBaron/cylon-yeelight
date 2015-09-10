@@ -4,6 +4,8 @@ physical computing using Node.js
 
 This repository contains the Cylon adaptor for [Yeelight](http://www.yeelight.co.uk/).
 
+The implementation uses the [yeelight-blue](https://www.npmjs.com/package/yeelight-blue) node module from [@sandeepmistry](https://www.npmjs.com/~sandeepmistry). Thank you!
+
 For more information about Cylon, check out the repo at
 https://github.com/hybridgroup/cylon
 

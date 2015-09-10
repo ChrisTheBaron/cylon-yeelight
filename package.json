@@ -15,7 +15,7 @@
   "bugs": {
     "url": "https://github.com/ChrisTheBaron/cylon-yeelight/issues"
   },
-  "license": "SEE LICENSE IN LICENSE",
+  "license": "MIT",
   "author": "Chris Taylor <christhebaron@gmail.com> (http://christhebaron.co.uk/)",
   "repository": "https://github.com/ChrisTheBaron/cylon-yeelight.git"
 }
