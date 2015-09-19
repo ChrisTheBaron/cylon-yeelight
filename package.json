@@ -9,8 +9,8 @@
     "sinon-chai": "^2.8.0"
   },
   "dependencies": {
-    "cylon": "^1.1.0",
-    "yeelight-blue": "^0.1.1"
+    "cylon": "^1.2.0",
+    "yeelight-blue": "^1.0.0"
   },
   "bugs": {
     "url": "https://github.com/ChrisTheBaron/cylon-yeelight/issues"
