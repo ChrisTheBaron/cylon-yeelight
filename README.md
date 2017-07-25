@@ -79,6 +79,7 @@ To discover your devices run `node tools\discovery.js`
 We're busy adding documentation to our web site at http://cylonjs.com/ please check there as we continue to work on Cylon.js
 
 Thank you!
+
 ## Contributing
 * Put your contribution guidelines here
 * Submit a Pull Request to the appropriate branch and ideally discuss the changes with us in IRC.
@@ -92,6 +93,11 @@ Thank you!
   * For git help see [progit](http://git-scm.com/book) which is an awesome (and free) book on git
 
 ## Release History
-1.0.0 - Initial release
+- 1.1.0 - Add `getColorAndBrightness`
+- 1.0.2 - Update dependencies to latest versions
+- 1.0.1 - Update dependencies to latest versions
+- 1.0.0 - Initial release
+
+
 ## License
 Copyright (c) 2015 Chris Taylor. See `LICENSE` for more details
